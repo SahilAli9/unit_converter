@@ -59,8 +59,10 @@ pip install -r requirements.txt
 
 python unit_converter.py
 
-<img width="1080" height="2078" alt="1000005355" src="https://github.com/user-attachments/assets/1de2681a-b4e2-471b-93f6-65bf40a78188" />
-<img width="1080" height="2028" alt="1000005357" src="https://github.com/user-attachments/assets/856585f5-7f66-43c9-8297-6dedbe182470" />
+
+<img width="1080" height="1352" alt="1000005443" src="https://github.com/user-attachments/assets/5d88e516-07e7-4618-9b46-ff424c59302e" />
+<img width="1080" height="932" alt="1000005444" src="https://github.com/user-attachments/assets/ad50b1b2-efca-4727-92de-d2f426dc69b3" />
+
 
 📚 What I Learned
 
